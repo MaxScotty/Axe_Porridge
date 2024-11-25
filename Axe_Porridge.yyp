@@ -36,9 +36,12 @@
   "resources":[
     {"id":{"name":"oCutscene","path":"objects/oCutscene/oCutscene.yy",},},
     {"id":{"name":"oItemTest","path":"objects/oItemTest/oItemTest.yy",},},
+    {"id":{"name":"oItemTestCut","path":"objects/oItemTestCut/oItemTestCut.yy",},},
     {"id":{"name":"oKettleTest","path":"objects/oKettleTest/oKettleTest.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Cutscenefunc","path":"scripts/Cutscenefunc/Cutscenefunc.yy",},},
     {"id":{"name":"sItemTest","path":"sprites/sItemTest/sItemTest.yy",},},
+    {"id":{"name":"sItemTestCut","path":"sprites/sItemTestCut/sItemTestCut.yy",},},
     {"id":{"name":"sKettleTest","path":"sprites/sKettleTest/sKettleTest.yy",},},
   ],
   "resourceType":"GMProject",
