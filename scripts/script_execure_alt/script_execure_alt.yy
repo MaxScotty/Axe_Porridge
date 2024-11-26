@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"script_execure_alt",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"script_execure_alt",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
