@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"oPlayButton",
+  "%Name":"oQuitButton",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oPlayButton",
+  "name":"oQuitButton",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oButtonParent","path":"objects/oButtonParent/oButtonParent.yy",},"propertyId":{"name":"button_text","path":"objects/oButtonParent/oButtonParent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Play",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oButtonParent","path":"objects/oButtonParent/oButtonParent.yy",},"propertyId":{"name":"button_text","path":"objects/oButtonParent/oButtonParent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Quit",},
   ],
   "parent":{
     "name":"Objects",

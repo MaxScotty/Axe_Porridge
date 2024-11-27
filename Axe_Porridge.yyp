@@ -34,11 +34,13 @@
   },
   "name":"Axe cereal",
   "resources":[
+    {"id":{"name":"oButtonParent","path":"objects/oButtonParent/oButtonParent.yy",},},
     {"id":{"name":"oCutscene","path":"objects/oCutscene/oCutscene.yy",},},
     {"id":{"name":"oItemTest","path":"objects/oItemTest/oItemTest.yy",},},
     {"id":{"name":"oItemTestCut","path":"objects/oItemTestCut/oItemTestCut.yy",},},
     {"id":{"name":"oKettleTest","path":"objects/oKettleTest/oKettleTest.yy",},},
     {"id":{"name":"oPlayButton","path":"objects/oPlayButton/oPlayButton.yy",},},
+    {"id":{"name":"oQuitButton","path":"objects/oQuitButton/oQuitButton.yy",},},
     {"id":{"name":"oTrigger","path":"objects/oTrigger/oTrigger.yy",},},
     {"id":{"name":"rMain","path":"rooms/rMain/rMain.yy",},},
     {"id":{"name":"rMenu","path":"rooms/rMenu/rMenu.yy",},},
