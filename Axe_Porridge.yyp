@@ -1,6 +1,6 @@
 {
   "$GMProject":"",
-  "%Name":"Axe cereal",
+  "%Name":"Axe_Porridge",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -32,8 +32,9 @@
   "MetaData":{
     "IDEVersion":"2024.8.1.171",
   },
-  "name":"Axe cereal",
+  "name":"Axe_Porridge",
   "resources":[
+    {"id":{"name":"FONT","path":"fonts/FONT/FONT.yy",},},
     {"id":{"name":"oButtonParent","path":"objects/oButtonParent/oButtonParent.yy",},},
     {"id":{"name":"oCutscene","path":"objects/oCutscene/oCutscene.yy",},},
     {"id":{"name":"oItemTest","path":"objects/oItemTest/oItemTest.yy",},},
@@ -43,6 +44,7 @@
     {"id":{"name":"oQuitButton","path":"objects/oQuitButton/oQuitButton.yy",},},
     {"id":{"name":"oTextBox","path":"objects/oTextBox/oTextBox.yy",},},
     {"id":{"name":"oTrigger","path":"objects/oTrigger/oTrigger.yy",},},
+    {"id":{"name":"rCutscene","path":"rooms/rCutscene/rCutscene.yy",},},
     {"id":{"name":"rMain","path":"rooms/rMain/rMain.yy",},},
     {"id":{"name":"rMenu","path":"rooms/rMenu/rMenu.yy",},},
     {"id":{"name":"Cutscenefunc","path":"scripts/Cutscenefunc/Cutscenefunc.yy",},},
@@ -50,6 +52,8 @@
     {"id":{"name":"script_execure_alt","path":"scripts/script_execure_alt/script_execure_alt.yy",},},
     {"id":{"name":"Textboxfunc","path":"scripts/Textboxfunc/Textboxfunc.yy",},},
     {"id":{"name":"sButton","path":"sprites/sButton/sButton.yy",},},
+    {"id":{"name":"sFaceTest1","path":"sprites/sFaceTest1/sFaceTest1.yy",},},
+    {"id":{"name":"sFaceTest2","path":"sprites/sFaceTest2/sFaceTest2.yy",},},
     {"id":{"name":"sItemTest","path":"sprites/sItemTest/sItemTest.yy",},},
     {"id":{"name":"sItemTestCut","path":"sprites/sItemTestCut/sItemTestCut.yy",},},
     {"id":{"name":"sKettleTest","path":"sprites/sKettleTest/sKettleTest.yy",},},
@@ -60,6 +64,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"rMenu","path":"rooms/rMenu/rMenu.yy",},},
     {"roomId":{"name":"rMain","path":"rooms/rMain/rMain.yy",},},
+    {"roomId":{"name":"rCutscene","path":"rooms/rCutscene/rCutscene.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

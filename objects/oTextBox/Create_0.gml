@@ -1,13 +1,14 @@
 depth = -9999;
 
 //Textbox parameters
-textbox_width = 200;
-textbox_height = 64;
-border = 8;
-line_sep = 12;
-line_width = textbox_width - border*2;
-txtb_spr = sTextbox;
+textbox_width = 300
+textbox_height = 90;
+border = 0;
+line_sep = 20;
+line_width = textbox_width - border*2 - 30;
+txtb_spr[0] = sTextbox;
 txtb_img = 0;
+text_x_offset[0] = 0; 
 
 //the text
 page = 0;
@@ -27,3 +28,6 @@ setup = false;
 //effects
 SetDefaultsForText();
 last_free_space = 0;
+
+text_pause_timer = 0;
+text_pause_time = 16;
